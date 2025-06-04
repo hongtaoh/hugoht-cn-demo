@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "https://example.com"
 theme = "hugo-ht"
 languageCode = "en-us"
 defaultContentLanguage = "cn"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 footnotereturnlinkcontents = "↩"
 
